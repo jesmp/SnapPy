@@ -106,7 +106,7 @@
 <p>Contributions are welcome! If you’d like to help improve SnapPy, feel free to fork the repository and submit a pull request. Please make sure to follow the project's code style and include tests for any new functionality.</p>
 
 <h2>Contact</h2>
-<p>If you have any questions, suggestions, or encounter issues, feel free to contact me via email at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+<p>If you have any questions, suggestions, or encounter issues, feel free to contact me via email at <a href="mailto:jmperalta.0711@gmail.com">jmperalta.0711@gmail.com</a>.</p>
 
 </body>
 </html>
